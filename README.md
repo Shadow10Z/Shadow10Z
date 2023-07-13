@@ -4,9 +4,7 @@
   <img alt="test" src="https://media.discordapp.net/attachments/1028810484855615578/1129179417386684497/image.png">
 </picture>
 
-<footer>
-  <p>乛ＳＨＡＤＯＷ ×͜×</p>
-</footer>
+### Computer Engineering Student
 <!--
 **Shadow10Z/Shadow10Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
