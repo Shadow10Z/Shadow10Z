@@ -1,4 +1,4 @@
-### Welcome do my profile 😄
+### Welcome to my profile 😄
 
 <picture>
   <img alt="test" src="https://media.discordapp.net/attachments/1028810484855615578/1129179417386684497/image.png">
