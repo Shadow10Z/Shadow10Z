@@ -1,9 +1,12 @@
-### Hi there 👋
+### Welcome do my profile 😄
 
 <picture>
   <img alt="test" src="https://cdn.discordapp.com/attachments/1084203416294801419/1100757115506806915/image.png">
 </picture>
 
+<footer>
+  <p>乛ＳＨＡＤＯＷ ×͜×</p>
+</footer>
 <!--
 **Shadow10Z/Shadow10Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
