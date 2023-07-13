@@ -1,7 +1,7 @@
 ### Welcome do my profile 😄
 
 <picture>
-  <img alt="test" src="https://cdn.discordapp.com/attachments/1084203416294801419/1100757115506806915/image.png">
+  <img alt="test" src="https://media.discordapp.net/attachments/1028810484855615578/1129179417386684497/image.png">
 </picture>
 
 <footer>
