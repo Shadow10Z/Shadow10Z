@@ -1,7 +1,7 @@
 ## 👋 Hi! Welcome to my profile 
 
 <picture>
-  <img alt="test" src="https://media.discordapp.net/attachments/1028810484855615578/1129179417386684497/image.png">
+  <img alt="test" src="https://media.discordapp.net/attachments/1084203416294801419/1215984686611038378/github.png?ex=65febcfd&is=65ec47fd&hm=ea150b06e0f1b3d4a36b8accdf3072fcd88f556dbb2c3ed53187fca27659c008&=&format=webp&quality=lossless&width=1440&height=294">
 </picture>
 
 ## 👨‍💻 I'm a Computer Engineering Student
