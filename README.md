@@ -7,7 +7,7 @@
 ## 👨‍💻 I'm a Computer Engineering Student
 
 - Currently learning more about Kali Linux.
-- Engaged in project about E-Commerce and data analysis for better recommendations.
+- CyberSecurity Enthusiast
 
 ## Tryhackme Status
 
