@@ -13,5 +13,4 @@
 
 <picture>
   <img src="https://tryhackme-badges.s3.amazonaws.com/Shadow10Z.png" alt="TryHackMe">
-  <script src="https://tryhackme.com/badge/2830139"></script>
 </picture>
