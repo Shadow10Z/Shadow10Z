@@ -11,6 +11,6 @@
 
 ## Tryhackme Status
 
-<picture>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Shadow10Z.png" alt="TryHackMe">
-</picture>
+<div align="center>
+ <a target="_blankl" href="https://tryhackme.com/p/Shadow10Z"><img title="TryHackMe Profile" src="https://tryhackme-badges.s3.amazonaws.com/Shadow10Z.png" alt="TryHackMe"></a>
+</div>
