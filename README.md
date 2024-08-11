@@ -14,3 +14,6 @@
 <div align="center">
  <a target="_blank" href="https://tryhackme.com/p/Shadow10Z"><img title="TryHackMe Profile" src="https://tryhackme-badges.s3.amazonaws.com/Shadow10Z.png" alt="TryHackMe"></a>
 </div>
+<div align="center">
+  <a target="_blank" href="https://tryhackme.com/Shadow10Z/badges/network-fundamentals">     <img title="Network"     alt="TryHackMe badge 1"  src="https://tryhackme.com/img/badges/networkfundamentals.svg"      width="100"></a>
+</div>
