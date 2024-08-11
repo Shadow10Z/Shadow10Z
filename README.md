@@ -16,4 +16,7 @@
 </div>
 <div align="center">
   <a target="_blank" href="https://tryhackme.com/Shadow10Z/badges/network-fundamentals">     <img title="Network"     alt="TryHackMe badge 1"  src="https://tryhackme.com/img/badges/networkfundamentals.svg"      width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/Shadow10Z/badges/web-fund">                 <img title="Network"     alt="TryHackMe badge 2"  src="https://tryhackme.com/Shadow10Z/badges/web-fund"               width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/Shadow10Z/badges/world-wide-web">           <img title="Network"     alt="TryHackMe badge 3"  src="https://tryhackme.com/img/badges/howthewebworks.svg"           width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/Shadow10Z/badges/terminaled">               <img title="Network"     alt="TryHackMe badge 4"  src="https://tryhackme.com/img/badges/linux.svg"                    width="100"></a>
 </div>
