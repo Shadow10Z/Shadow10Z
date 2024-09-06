@@ -19,4 +19,5 @@
   <a target="_blank" href="https://tryhackme.com/Shadow10Z/badges/web-fund">                 <img title="Web"             alt="TryHackMe badge 2"  src="https://tryhackme.com/img/badges/webbed.svg"                   width="100"></a>
   <a target="_blank" href="https://tryhackme.com/Shadow10Z/badges/world-wide-web">           <img title="World Wide"      alt="TryHackMe badge 3"  src="https://tryhackme.com/img/badges/howthewebworks.svg"           width="100"></a>
   <a target="_blank" href="https://tryhackme.com/Shadow10Z/badges/terminaled">               <img title="Linux"           alt="TryHackMe badge 4"  src="https://tryhackme.com/img/badges/linux.svg"                    width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/Shadow10Z/badges/owasp-10">                 <img title="OWASP"           alt="TryHackMe badge 4"  src="https://tryhackme.com/img/badges/owasptop10.svg"               width="100"></a>
 </div>
