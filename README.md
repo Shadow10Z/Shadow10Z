@@ -11,9 +11,9 @@
 
 ## Tryhackme Status
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c42a86f1-2f7a-4977-996b-8f04037710c2" data-share-badge-host="https://www.credly.com">
+<div align="center">
+  <a href="https://www.credly.com/badges/c42a86f1-2f7a-4977-996b-8f04037710c2" target="_blank"> <img src="https://images.credly.com/size/340x340/images/c42a86f1-2f7a-4977-996b-8f04037710c2.png" width="150" alt="Credly Badge"></a>
 </div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <div align="center">
  <a target="_blank" href="https://tryhackme.com/p/Shadow10Z"><img title="TryHackMe Profile" src="https://tryhackme-badges.s3.amazonaws.com/Shadow10Z.png" alt="TryHackMe"></a>
