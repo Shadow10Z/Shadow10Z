@@ -1,7 +1,7 @@
 ## 👋 Hi! Welcome to my profile 
 
 <picture>
-  <img alt="test" src="github">
+  <img alt="test" src="github.png">
 </picture>
 
 ## 👨‍💻 I'm a Computer Engineer
