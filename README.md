@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://www.credly.com/badges/c42a86f1-2f7a-4977-996b-8f04037710c2">
-    <img src="pre-security-sec0.png" width="150" alt="Credly Badge">
+    <img src="pre-security-sec0.png" width="250" alt="Credly Badge">
   </a>
 </div>
 
